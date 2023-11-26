@@ -1,0 +1,9 @@
+{
+    "orderId": "8x6v0VSJdk2l7Y5G0GKT",
+    "primaryMocapSrc": "mocaps/dance-42.fbx",
+    "primaryModelCode": "mocha",
+    "secondaryModelCodes": "latte",
+    "musicSrc": "musics/titanium-170190.mp3",
+    "musicStartTime": 4885,
+    "musicEndTime": 28740
+}
